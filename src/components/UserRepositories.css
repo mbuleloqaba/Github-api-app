@@ -1,0 +1,26 @@
+/* UserRepositories.css */
+
+/* Repositories Container */
+.repositories-container {
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  /* Repositories List */
+  .repositories-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Repository Item */
+  .repository-item {
+    margin-bottom: 10px;
+  }
+  
+  /* Repository Link */
+  .repository-link {
+    font-size: 18px;
+    color: #007BFF; /* Blue color for links */
+    text-decoration: none;
+  }
+  

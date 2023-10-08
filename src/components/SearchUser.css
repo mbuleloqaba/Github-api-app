@@ -1,0 +1,43 @@
+/* SearchUser.css */
+
+/* Search Container */
+.search-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Input Field */
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Search Button */
+  .search-button {
+    background-color: #007BFF; /* Blue color for the button */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Error Message */
+  .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  /* User Data Container */
+  .user-data-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* User Data Link */
+  .user-data-link {
+    text-decoration: none;
+    color: #007BFF; /* Blue color for the link */
+    font-weight: bold;
+  }
+  
